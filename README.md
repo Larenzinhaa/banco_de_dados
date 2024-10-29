@@ -1,6 +1,5 @@
-# *Banco de Dados* <img width="138" alt="image" src="https://github.com/user-attachments/assets/590096b8-4728-4397-ada7-0a28121ab9ef">
-
-
+# *Banco de Dados* 
+<img width="138" alt="image" src="https://github.com/user-attachments/assets/590096b8-4728-4397-ada7-0a28121ab9ef">
 
 Comandos básicos de SQL 🏦
 
