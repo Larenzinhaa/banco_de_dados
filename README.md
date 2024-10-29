@@ -5,7 +5,7 @@ Comandos básicos de SQL 🏦
 
 - CREATE: Para criar banco de dados
 - ALTER: Modificar e alterar colunas
-- DROP: Para mover tabelas e banco
+- DROP: Para mover tabelas e banco 
 - INSERT: Inserir os dados nas tabelas
 - UPDATE: Atualiza registro
 - DELETE: Remover registro
